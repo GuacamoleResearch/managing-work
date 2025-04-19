@@ -1,27 +1,19 @@
 ## Workshop setup
->> NOTE - This model setups up in an user org - we need to run in a GHE to get Issue Types.
->> NOTE - I plan to populate all system-generated issues and a label as part of an Actions workflow that runs when deploying from the template.
->> Also pre-populate a bug for fixing the README (some obvious error) and create the fix in a branch.
-
-To complete this workshop you will need to create a repository for your personal work.  This is accomplished through the use of a [template repository][template-repo]. Template repositories are a great way to provide starters for your organization, ensuring consistency across projects. The repository for this workshop is configured as a template, so we can use it to create your repository.
 
 > [!IMPORTANT]
-> Ensure you have the [requisite software][required-software] and [requisite resources][required-resources] setup.
+> For this lab you need a [GitHub account](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts), if you don't have one no worries, you can create a personal account for free. Create your account in the [GitHub sign up page](https://github.com/signup).
+
+To complete this workshop you'll need a GitHub account, access to a GitHub organization, and a copy of this repository deploy as a tempoate.
 
 ## Create your repository
 
 Let's create the repository you'll use for your workshop.
 
-1. Navigate to [the repository root](/)
-2. Select **Use this template** > **Create a new repository**
-
-    ![Screenshot of Use this template dropdown](images/0-setup-template.png)
-
-3. Under **Owner**, select the name of your GitHub handle, or the owner specified by your workshop leader.
-4. Under **Repository**, set the name to **pets-workshop**, or the name specified by your workshop leader.
-5. Ensure **Public** is selected for the visibility, or the value indicated by your workshop leader.
-6. Select **Create repository from template**.
-
-    ![Screenshot of configured template creation dialog](images/0-setup-configure.png)
+1. Within the lab environment, open Edge and navigate to the template repository: `https://github.com/GuacamoleResearch/managing-work`. ***TODO - UPDATE TEMPLATE***
+2. On the top-right of the page, Click **Use this template** > **Create a new repository**.
+3. Under "Owner" select the owner specified by your workshop leader or the organization you'll use.
+4. Under "Repository", set the name as specified by your workshop leader, or an appropriate name for your self-study.
+5. You can accept defaults for the rest of this form; click the **Create repository** button on the bottom of the form.
 
 In a few moments a new repository will be created from the template for this workshop!
+
