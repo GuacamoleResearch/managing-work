@@ -4,9 +4,9 @@ _Most development teams need more than simple issues to manage development proce
 
 - [ ] Create a new issue titled "Apply structure to GitHub Issues" using the blank issue template, with a **Task** Type and assigned to you.
   - This is the same process as in the last exercise, using the green **New issue** button except that:
-    - You'll need to select the **Blank issue** template, and
-    - You'll need to enter the title "Apply structure to GitHub Issues"
-    - If you'd like to practice your Markdown, you can optionally enter a description
+    - You'll need to select the **Blank issue** template, and...
+    - You'll need to enter the title "Apply structure to GitHub Issues".
+    - If you'd like to practice your Markdown, you can optionally enter a description.
   - Notice that at the bottom of the form there are buttons such as **Assignee**, **Label**, etc.  Click the **Assignee** button and assign it to yourself. Again, click outside to popup menu to dismiss it.  This is an alternate way from the last exercise to set issue data during the creation process.
   - Repeat the process to set the **Type** to Task. Note that Issue Types are available in [GitHub organization accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts) but not User accounts.
   - Click the green **Create** to complete the creation process.

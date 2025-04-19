@@ -7,7 +7,7 @@ _In this section you'll learn the basics of GitHub issues, including issue creat
 - [ ] Create your first issue, based on the "Build Lab-Issue Basics template" issue template using the default settings.
   - Click the **Issues** tab in the top navigation bar of your GitHub repo in the browser (Possible image).
   - Click the green New Issue button on the right side of the browser screen (possible image).
-  - Review markdown used in the <b> Description</b> to format content. If you aren't already familiar with markdown you can refer to the <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github">GitHub docs</a> for more information.
+  - Review markdown used in the <b> Description</b> to format content. If you aren't already familiar with markdown you can refer to the [GitHub docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more information.
   - Click the green **Create** button near the bottom of the window.  The template you selected already had everything filled out so you don't need to make any changes. 
 - [ ] Assign the new issue to yourself.
   - On the right side of the issue, locate the **Assignees** section and click the link "Assign to yourself". Alternatively you can click the gear icon in that section (Possible Image) and search/filter/select to add assignees.
