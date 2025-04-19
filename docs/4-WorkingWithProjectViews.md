@@ -6,8 +6,8 @@ If you're not already, get the the project board and the default view.
 - [ ] Rename the first view as "Feature Planning"
   - Locate the tab with the default name "View 1"
   - Double-click on the **View 1** text; delete the existing name and replace it with the title "Feature Planning"
-- [ ] Add a filter to only show "Feature" and "Bug" type issues that aren't "Done"
-  - In the filter textbox with the magnifying glass icon (image), enter the text `Type:Bug,Feature -status:Done`.  Note that dash is used to indicate the Boolean logical "not". 
+- [ ] Add a filter to only show "Feature" and "Bug" type issues.
+  - In the filter textbox with the magnifying glass icon (image), enter the text `Type:Bug,Feature`.
   - Click the green **Save** button to the right of the filter textbox to save your changes. 
 
 ### Add a Release Roadmap view
@@ -29,9 +29,9 @@ If you're not already, get the the project board and the default view.
   - Hit the **+** button next to "Add a Release Roadmap View" issue; drag and stretch the issue so that it is a few days duration, starting after the "README has a typo" issue
 
 ### Add a Board view for tasks
-- [ ] Add a new view named "Task Board" with the type "Board", filtered on task issues
+- [ ] Add a new view named "Task Board" with the type "Board", filtered on task issues which aren't done.
   - Click the **+ New view** button next to the "Release Roadmap" tab and rename the new tab to "Tasks"
-  - In the "Filter by keyword or by field" textbox enter `Type:Task`
+  - In the "Filter by keyword or by field" textbox enter `Type:Task -Status:Done`; note that dash is used to indicate the Boolean logical "not". 
 - [ ] Add a "Parent issue" slicer, group by "Assignee", and add "Labels" to the fields
   - Click the down arrow button on the "Tasks" tab, click on **Slice by:** button, and select **Parent issue"
   - Repeat the process to add a **Group by:** with the value **Assignee**

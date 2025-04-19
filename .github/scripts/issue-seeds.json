@@ -6,5 +6,6 @@
     { "id": 2, "title": "Customize Status and Fields", "type": "Feature", "labels": "enhancement" },
         { "title": "Add priority field", "type": "Task", "parent": 2},
         { "title": "Add start and end date fields", "type": "Task", "parent": 2},
-        { "title": "Add 'Paused' status", "type": "Task", "parent": 2}
+        { "title": "Add 'Paused' status", "type": "Task", "parent": 2},
+    { "title": "Fix the typo in the README file", "type": "Bug", "body": "The 'Abstract' header on line 3 is misspelled." }
 ]
