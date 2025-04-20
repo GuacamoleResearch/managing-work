@@ -1,11 +1,11 @@
+**Abstract:** _Learn how GitHub Issues and project planning capabilities balance structure and flexibility for complex software development. Get hands-on with the redesigned GitHub Issues experience and other enhancements and discover practical techniques for leveraging markdown-based issue templates and custom sections that adapt to your team's unique workflows. Perfect for developers and DevOps practitioners seeking to streamline collaboration without sacrificing visibility or accountability._
+
 ## Workshop setup
 
 > [!IMPORTANT]
 > For this lab you need a [GitHub account](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts), if you don't have one no worries, you can create a personal account for free. Create your account in the [GitHub sign up page](https://github.com/signup).
 
-To complete this workshop you'll need a GitHub account, access to a GitHub organization, and a copy of this repository deploy as a tempoate.
-
-## Create your repository
+### Create your repository
 
 Let's create the repository you'll use for your workshop.
 
