@@ -3,7 +3,7 @@
     { "id": 1, "title": "Exercise Project Fundamentals", "type": "Feature"},
         { "title": "Create a new project", "type": "Task", "parent": 1},
         { "title": "Add all of the remaining issues", "type": "Task", "parent": 1},
-    { "id": 2, "title": "Customize Status and Fields", "type": "Feature", "labels": "enhancement" },
+    { "id": 2, "title": "Customize Status and Fields", "labels": "enhancement" },
         { "title": "Add priority field", "type": "Task", "parent": 2},
         { "title": "Add start and end date fields", "type": "Task", "parent": 2},
         { "title": "Add 'Paused' status", "type": "Task", "parent": 2},
