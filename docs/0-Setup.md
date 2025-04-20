@@ -1,5 +1,3 @@
-**Abstract:** _Learn how GitHub Issues and project planning capabilities balance structure and flexibility for complex software development. Get hands-on with the redesigned GitHub Issues experience and other enhancements and discover practical techniques for leveraging markdown-based issue templates and custom sections that adapt to your team's unique workflows. Perfect for developers and DevOps practitioners seeking to streamline collaboration without sacrificing visibility or accountability._
-
 ## Workshop setup
 
 > [!IMPORTANT]
@@ -9,12 +7,15 @@
 
 Let's create the repository you'll use for your workshop.
 
+> [!TIP]
+> Clicking on links in the instruction manual will open a browser tab on the host machine. This is fine for things like reviewing reference documents, but for the next step you'll want to interact directly with the browser in the VM.
+
 1. Within the lab environment, open Edge and navigate to the template repository: `https://github.com/GuacamoleResearch/managing-work`. ***TODO - UPDATE TEMPLATE***
-2. Click the **Sign in** button on the top-right of the page.
-2. On the top-right of the page, Click **Use this template** > **Create a new repository**.
-3. Under "Owner" select the owner specified by your workshop leader or the organization you'll use.
-4. Under "Repository", set the name as specified by your workshop leader, or an appropriate name for your self-study.
-5. You can accept defaults for the rest of this form; click the **Create repository** button on the bottom of the form.
+2. Click the **Sign in** button on the top-right of the page and complete the sign-in process.
+3. Click **Use this template** > **Create a new repository**.
+4. Under "Owner" select the owner specified by your workshop leader or the organization you'll use.
+5. Under "Repository", set the name as specified by your workshop leader, or an appropriate name for your self-study.
+6. You can accept defaults for the rest of this form; click the **Create repository** button on the bottom of the form.
 
 In a few moments a new repository will be created from the template for this workshop!
 
