@@ -7,7 +7,7 @@ _GitHub offers a rich array of APIs and logging mechanisms to build your own dat
   - In the top-right of the page, click on the **Insights** button (![Insights button](./images/project-insights.jpeg)) in the project setting.
   - Review the default "Burn up" chart.  Since this is a time-based chart and the lab is likely within a single day, it is likely that this chart is fairly boring.  The following shows a sample of an actual production burn up chart with the default settings.  This is just for reference - your chart will **NOT** look like this:
   ![Sample burn up chart](./images/burn-up.jpeg)
-  - Note that you can easily change which project items are captured bu changing the filter (e.g., `is:issue`) to report on any project fields.  Also note that for time-based charts you can customize date ranges; the default is for the most recent 2-weeks.
+  - Note that you can easily change which project items are captured by changing the filter (e.g., `is:issue`) to report on any project fields.  Also note that for time-based charts you can customize date ranges; the default is for the most recent 2-weeks.
 - [ ] Create a "Issue status by type" Stacked bar chart.
   - On the left side of the page, click on the **+ New chart** button.
   - Click the **Edit the chart name** (![Pencil](./images/bare-pencil.png)) and enter the name `Issue status by type` and click **Save**.

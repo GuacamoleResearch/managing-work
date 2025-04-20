@@ -17,7 +17,7 @@ _Most development teams need more than simple issues to manage development proce
 - [ ] Add a new Task titled "Verify Issue Hierarchy" as a child of this feature.
   - With the "Learning GitHub Issues Feature" issue still open, click the **Create sub-issue** button.
   - Select **Blank Issue** as the template and enter `Verify Issue Hierarchy` as the title.
-  - Set the **Type** to Task and click the **Create** button.
+  - Set the **Issue Type** to Task and click the **Create** button.
 - [ ] Add the Task issues that you created earlier as children of this Feature.
   - Click the dropdown arrow (image) on the **Create sub-issue** button, and select **Add existing issue**.
   - Locate and select the "Investigate Issue Basics" task; you can use the **Search issues** text box if it is difficult to locate.

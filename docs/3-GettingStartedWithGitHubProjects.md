@@ -35,7 +35,7 @@ _GitHub Projects project a management layer on top of Issues, providing custom f
   - In the "Add option..." textbox, enter `:fire: High` and click the **Add** button.
   - Repeat adding options for `:yellow_circle: Medium` and `:ice_cube: Not going to happen`.
   - Click the green **Save** button to add the field.
-- [ ] Repeat the process above to add Date fields for "Start" and "End".
+- [ ] Repeat the process above to add Date fields for `Start` and `End`.
   - As stated, the process is identify except that the names are different and the "Date" type doesn't require additional "Add option..." steps.
 - [ ] Add a new Status for "Paused".
   - In the table header, click on the elipses (**...**) button next to the "Status" header.

@@ -14,6 +14,7 @@ If you're not already there, access the project board and the default view.
 
 ### Add a Release Roadmap view
 - [ ] Populate Feature issues with priorities and dates; using the existing "Feature Planning" view, set the Priority, Start and End dates in the grid as:
+  |-|-|
   | "Learning GitHub Issues..." | High Priority | May 12-May 16, 2025 |
   | "Exercise Project Fudamentals" | Medium Priority | May 15-May 21, 2025 |
   | "Fix the typo in the README file | Medium Priority | May 21-May 23, 2025 |
@@ -40,7 +41,7 @@ If you're not already there, access the project board and the default view.
   - Repeat the process to add a **Group by:** with the value **Assignees**.
   - Repeat the process, selecting **Fields:** and adding the **Labels** field. A couple of the prepopulated tasks have labels which you should now see on their cards.
   - Click the green **Save** button to save changes.
-- Verify board interactions
+- [ ] Verify board interactions
   - Drag one of the issues from the "No Assignees" group into your assignee row; verify that it is now assigned to you (i.e., the user icon on the top-right of that card).
   - Click on the **Learning GitHub Issues** parent issue; verify that it filters down to only show the two child issues assigned to that parent
   - Click on that parent issue again, or click on **deselect** in the slicer, and verify that all cards are shown again
