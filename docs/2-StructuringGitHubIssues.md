@@ -9,15 +9,15 @@ _Most development teams need more than simple issues to manage development proce
     - If you'd like to practice your Markdown, you can optionally enter a description.
   - Scroll to the bottom of the form and notice there are buttons such as **Assignee**, **Label**, etc.  Click the **Assignee** button and assign it to yourself. Again, click outside to popup menu to dismiss it.  This is an alternate way from the last exercise to set issue data during the creation process.
   - Repeat the process to set the **Type** to **Task**. 
-    > [!NOTE]
-    > Issue Types are available in [GitHub organization accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts) but not User accounts.
+> [!NOTE]
+> Issue Types are available in [GitHub organization accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts) but not User accounts.
   - Click the green **Create** to complete the creation process.
 - [ ] Locate the "Learning GitHub Issues Feature" issue, change it's type to Feature.
   - Click the **Issues** tab on the top nav of the page to return to the Issues list. You can add the text "Learning" to the filter text to do a text search for the issue (i.e., `is:issue state:open Learning` and <kbd>Enter</kbd>).
   - Click on the "Learning GitHub Issues Feature" issue to open it.
   - Locate the **Type** section on the right side of the form; use the gear icon to select the **Feature** type.
-    > [!TIP] 
-    > GitHub defaults to types "Task", "Bug" and "Feature", but you can easily [create your own issue types](https://docs.github.com/en/enterprise-cloud@latest/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization).
+> [!TIP] 
+> GitHub defaults to types "Task", "Bug" and "Feature", but you can easily [create your own issue types](https://docs.github.com/en/enterprise-cloud@latest/issues/tracking-your-work-with-issues/configuring-issues/managing-issue-types-in-an-organization).
 - [ ] Add a new Task titled "Verify Issue Hierarchy" as a child of this feature.
   - With the "Learning GitHub Issues Feature" issue still open, click the **Create sub-issue** button.
   - Select **Blank Issue** as the template and enter `Verify Issue Hierarchy` as the title.
@@ -26,8 +26,8 @@ _Most development teams need more than simple issues to manage development proce
   - Click the dropdown arrow (image) on the **Create sub-issue** button, and select **Add existing issue**.
   - Locate and select the "Investigate Issue Basics" task; you can use the **Search issues** text box if it is difficult to locate.
   - Repeat the process to add the existing "Apply structure to GitHub Issues" task.
-    > [!TIP]
-    > In an issue hierarchy, you can drag the handle to the left of the child issues to reorder the issues.
+> [!TIP]
+> In an issue hierarchy, you can drag the handle to the left of the child issues to reorder the issues.
 - [ ] Add a parent Issue from a different repo.
   - One of the powerful capabilities in GitHub Issues it the ability to seamlessly track work between repos. In the right column of the issue form, locate the "Relationships" section and click the gear icon.
   - Click **Add parent**

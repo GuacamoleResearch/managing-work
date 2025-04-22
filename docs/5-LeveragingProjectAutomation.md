@@ -21,11 +21,10 @@ _As noted in the last exercise, the act of closing an issue and changing the a p
   - In the right column of the newly created issue, verify that your project is visible in the "Projects" section.  The fact that it shows up verifies that the automation has run and this issue was added to the project.
   - Expand the project box to reveal the custom project fields, for example:
     ![Project fields example](./images/project-fields.jpeg).
-    
-    > ![TIP]
-    > You can manipulate any of the custom project fields directly from this area of an issue. 
-    > ![TIP]
-    > Issues can also appear on multiple projects, each with their own custom fields. 
+> [!TIP]
+> You can manipulate any of the custom project fields directly from this area of an issue. 
+> [!TIP]
+> Issues can also appear on multiple projects, each with their own custom fields. 
 
 ### Review advanced automation options
 - [ ] Review API and command line automation options.

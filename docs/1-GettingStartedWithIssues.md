@@ -9,8 +9,8 @@ _In this section you'll learn the basics of GitHub issues, including issue creat
   - Click the green **New Issue** button on the right side of the browser screen.
   - Select the **Build Lab-Issue Basics template**.
   - Review markdown used in the "Description" to format content.
-    > [!TIP]
-    > If you aren't already familiar with markdown you can refer to the [GitHub docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more information.
+> [!TIP]
+> If you aren't already familiar with markdown you can refer to the [GitHub docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more information.
   - Click the **Preview** tab for the "Add a description" text area to preview the markdown.
   - Click the green **Create** button near the bottom of the form.  The template you selected already had everything filled out so you don't need to make any changes. 
 - [ ] Assign the new issue to yourself.
@@ -19,8 +19,8 @@ _In this section you'll learn the basics of GitHub issues, including issue creat
   - Again in the right side, locate the **Labels** section.
   - Click the gear icon in that section and select the **enhancement** checkbox.
   - Click outside the selection area to close the menu.
-    > ![NOTE]
-    > Currently, only the default labels are available.  If you're interested in how to create and manage labels in GitHub, refer to the [GitHub docs](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels).
+> ![NOTE]
+> Currently, only the default labels are available.  If you're interested in how to create and manage labels in GitHub, refer to the [GitHub docs](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels).
 - [ ] Apply the "Build 2025 Sprint" milestone to your new issue. ***TODO - Either prepopulate Milestones, add the steps to generate it, or remove this step***
   - Using the same process described above, select the gear and then assign the Milestone.
   - Normally the milestone list defaults to empty, but we prepopulated the available labels for this lab.  Refer to the [GitHub docs](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) if you'd like to learn more.
