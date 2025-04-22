@@ -12,7 +12,7 @@ Let's create the repository you'll use for your workshop.
 
 1. Within the lab environment, open Edge and navigate to the template repository: `https://github.com/GuacamoleResearch/managing-work`. ***TODO - UPDATE TEMPLATE***
 2. Click the **Sign in** button on the top-right of the page and complete the sign-in process.
-3. Click **Use this template** > **Create a new repository**.
+3. Click **Use this template** > **Create a new repository** green buttons on the top-right of the page.
 4. Under "Owner" select the owner specified by your workshop leader or the organization you'll use.
 5. Under "Repository", set the name as specified by your workshop leader, or an appropriate name for your self-study.
 6. You can accept defaults for the rest of this form; click the **Create repository** button on the bottom of the form.

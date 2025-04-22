@@ -7,7 +7,7 @@ And while you have this playground available available and proctors to answer yo
 
 - Customize the project fields based on data you are likely to track.
 - Add a project view to show a missing but expected data item (e.g., "Type") so that it is easy to identify and populate missing data.
-- Configure [Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) and/or [GitHub docs](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels). to be consistent with what you'd likely use in your daily work.
+- Configure [Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) and/or [Labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels). to be consistent with what you'd likely use in your daily work.
 - Launch a [Codespace](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces) on your repo, and use the [GH CLI](https://cli.github.com/manual/index) to programatically add, view, and/or modify issue data.
 
 ### Resources
