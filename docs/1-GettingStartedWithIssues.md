@@ -9,7 +9,7 @@ _In this section you'll learn the basics of GitHub issues, including issue creat
   - Click the green **New Issue** button on the right side of the browser screen.
   - Select the **Build Lab-Issue Basics template**.
   - Review markdown used in the "Description" to format content.
-    > ![TIP]
+    > [!TIP]
     > If you aren't already familiar with markdown you can refer to the [GitHub docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more information.
   - Click the **Preview** tab for the "Add a description" text area to preview the markdown.
   - Click the green **Create** button near the bottom of the form.  The template you selected already had everything filled out so you don't need to make any changes. 
