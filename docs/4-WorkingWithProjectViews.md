@@ -14,10 +14,12 @@ If you're not already there, access the project board and the default view.
 
 ### Add a Release Roadmap view
 - [ ] Populate Feature issues with priorities and dates; using the existing "Feature Planning" view, set the Priority, Start and End dates in the grid as:
-  |-|-|
+  | Issue title | Priority | Start-End dates |
+  |---|---|---|
   | "Learning GitHub Issues..." | High Priority | May 12-May 16, 2025 |
   | "Exercise Project Fudamentals" | Medium Priority | May 15-May 21, 2025 |
   | "Fix the typo in the README file | Medium Priority | May 21-May 23, 2025 |
+
 - [ ] Duplicate the current view with the name "Release Roadmap", the type "Roadmap", scaled to "Quarter" and sorted by "End".
   - Click the dropdown button on the **Feature Planning** view.
   - Click on **Duplicate view**.
