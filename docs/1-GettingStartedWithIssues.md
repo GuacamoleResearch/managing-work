@@ -9,6 +9,7 @@ _In this section you'll learn the basics of GitHub issues, including issue creat
   - Click the green **New Issue** button on the right side of the browser screen.
   - Select the **Build Lab-Issue Basics template**.
   - Review markdown used in the "Description" to format content.
+
 > [!TIP]
 > If you aren't already familiar with markdown you can refer to the [GitHub docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more information.
 
@@ -20,6 +21,7 @@ _In this section you'll learn the basics of GitHub issues, including issue creat
   - Again in the right side, locate the **Labels** section.
   - Click the gear icon in that section and select the **enhancement** checkbox.
   - Click outside the selection area to close the menu.
+  
 > [!NOTE]
 > Currently, only the default labels are available.  If you're interested in how to create and manage labels in GitHub, refer to the [GitHub docs](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels).
 
