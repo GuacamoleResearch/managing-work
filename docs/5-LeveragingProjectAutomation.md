@@ -42,6 +42,7 @@ _As noted in the last exercise, the act of closing an issue and changing the a p
   - Click on the **issue-ping.yml** file; GitHub Actions supports a wide variety of triggers for [Issues](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#issues).  Note that this workflow triggers when an issue comment is created:
   
     ![Action trigger code](./images/action-trigger.jpeg)
+    
     Review the rest of the short workflow file to see you simple it can be to automate based on issue triggers.
   - From the top-nav of the page, click on the **Issues** tab.
   - Drill into an issue (it doesn't matter which one) and add the comment `ping` to the text area near the bottom of the form.
