@@ -10,7 +10,7 @@ _Most development teams need more than simple issues to manage development proce
   - Scroll to the bottom of the form and notice there are buttons such as **Assignee**, **Label**, etc.  Click the **Assignee** button and assign it to yourself. Again, click outside to popup menu to dismiss it.  This is an alternate way from the last exercise to set issue data during the creation process.
   - Repeat the process to set the **Type** to **Task**. 
 
-> [!NOTE]
+> [!TIP]
 > Issue Types are available in [GitHub organization accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts) but not User accounts.
 
   - Click the green **Create** to complete the creation process.
