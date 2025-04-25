@@ -4,7 +4,7 @@ _GitHub Projects provide a management layer on top of Issues, including custom f
 ### Exercise Project Fundamentals
 - [ ] Create a new project with a name that you'll recognize (e.g., "Dave's lab project"), starting from scratch as a Table.
   - Click on **Projects** tab in the page's top-nav.
-  - Click on the **+ New project** green button on the right side above the (likely empty) project list.
+  - Click on the **+ New project** green button on the right side above the (likely empty) project list; if you're prompted to get started, you can click **Jump right in**.
   - Review the templates in the "Create project" dialog, but don't select one. Instead, select **Table** on the left side under "Start from scratch".
   - Give the title a "Project name" that you'll recognize (e.g., "Dave's workshop project").
   - Click the green **Create project** button on the lower-right of the form. 
@@ -19,7 +19,7 @@ _GitHub Projects provide a management layer on top of Issues, including custom f
   - At the bottom of the popup list, select "Add items from *your-org/your repo*".
   - In the top of the form, check **Select all items**.
   - Click the green **Add selected items** button in the lower-right of the form.
-  - Click outside the "Add items to project" form to close it.
+  - Click on the **X** on the top-right of the form to close it.
 - [ ] Add a draft item named "Investigate draft issues" to the project; drafts do not have a backing issue and have fewer capabilities but are easier to work with and not tied to an individual repo.
   - Click in the textbox next to the "+" at the bottom of the table. If your repo is listed, you'll need to delete it before proceeding.
   - Type the title `Investigate draft issues` but don't complete yet!
@@ -28,9 +28,7 @@ _GitHub Projects provide a management layer on top of Issues, including custom f
 
 ### Customize Status and Fields
 - [ ] Add a new **Single select** project field for "Priority"
-  - Locate and click on the **+** in the header row of the far right column of the table, and select **+ New field**.
-    > ![NOTE]
-    > You may need to scroll right in the browser to locate that column.
+  - Locate and click on the **+** in the header row of the far right column of the table, and select **+ New field**; you may need to scroll right in the browser to locate that column.
   - Enter `Priority` as the "Field name" and select the "Field type" **Single select**.
   - In the "Add option..." textbox, enter `:fire: High` and click the **Add** button.
   - Repeat adding options for `:yellow_circle: Medium` and `:ice_cube: Not going to happen`.

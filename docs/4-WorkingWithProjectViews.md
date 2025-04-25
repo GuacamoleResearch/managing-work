@@ -2,7 +2,7 @@
 _One of the valuable components in Projects is the ability to customize how you view and interact with a group of related work. In this exercise we will filter, slice, and create a variety of different project views._
 
 ### Filter Project Data
-If you're not already there, access the project board and the default view.
+If you're not already there, access the project board and the default view.  If you modified the filters for the view, click **Discard** to return to the initial settings.
 - [ ] Rename the first view as "Feature Planning".
   - Locate the tab with the default name "View 1".
   - Double-click on the **View 1** text; delete the existing name and replace it with the title `Feature Planning`.
@@ -11,6 +11,9 @@ If you're not already there, access the project board and the default view.
   - Click on the green **Save** button to the right of the filter textbox to save your changes. 
   - Click on the dropdown button on the **Feature Planning** tab (![Feature Planning tab](./images/feature-planning-tab.jpeg)), select **Fields** > **Type**.
   - Click on the green on **Save** button in the "Layout" popup to save the displayed field; notice that the type is now shown in a new column in the table.
+
+> [!TIP]
+> To make things easier to read, you can easily resize and reorder columns to suite your preferences. If you do reorder columns, you should click **Save** to keep your changes.
 
 ### Add a Release Roadmap view
 - [ ] Populate Feature issues with priorities and dates; using the existing "Feature Planning" view, set the Priority, Start and End dates in the grid as:
@@ -36,7 +39,7 @@ If you're not already there, access the project board and the default view.
 ### Add a Board view for tasks
 - [ ] Add a new view named "Task Board" with the type "Board", filtered to show tasks and untyped issues.
   - Click the **+ New view** button next to the "Release Roadmap" tab and select the **Board** view.
-  - Rename the new tab to "Tasks".
+  - Rename the new tab to `Tasks`.
   - In the "Filter by keyword or by field" textbox enter `-Type:Feature,Bug`; note that dash is used to indicate the Boolean logical "not". We're using this notation on the types so that we can pick up untyped issues in addition to Tasks.
 - [ ] Add a "Parent issue" slicer, group by "Assignees", and add "Labels" to the fields.
   - Click the dropdown next to the **Tasks** tab, then the **Slice by:** button, and select **Parent issue**.
