@@ -27,5 +27,5 @@ _Linking code to issues is a common pattern within GitHub. It is frequently used
   - If not already selected, click on the **Feature Planning** tab.
   - Locate the bug; note that it's status was updated to done through a series of events: merging the PR with the "fixes" keyword closed the issue, and the project automation updated the status to "Done".
   - Click on the bug to open it; scan down in the on the right column and look for the "Deveopment" section.
-  - Note that the link to the PR in that section has the "merged" icon (![Merged icon](./images/merged-icon.jpeg)) showing that the merge is complete.
-  - If you'd like, click on the PR to drill into it.  You can review all files, individually changes lines, and review feedabck in the PR as associated with this issue, and seamlessly move between the issue and the PR.
+  - Verify that the link to the PR in that section has the "merged" icon (![Merged icon](./images/merged-icon.jpeg)) showing that the merge is complete.
+  - If you'd like, click on the PR to drill into it.  You can review all files, individually changed lines, and review feedabck in the PR as associated with this issue, and seamlessly move between the issue and the code changes.

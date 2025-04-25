@@ -48,13 +48,13 @@ If you're not already there, access the project board and the default view.  If 
   - Click the green **Save** button to save changes.
 - [ ] Verify board interactions
   - Drag one of the issues from the "No Assignees" group into your assignee row; verify that it is now assigned to you (i.e., the user icon on the top-right of that card).
-  - Click on the **Learning GitHub Issues** parent issue; verify that it filters down to only show the two child issues assigned to that parent
+  - Click on the **Learning GitHub Issues** parent issue; verify that it filters only show the three child issues assigned to that parent.
   - Click on that parent issue again, or click on **deselect** in the slicer, and verify that all cards are shown again
   - Drag the "Investigate Issue Basics" issue to the "Done" column
-    - Verify that the **Learning GitHub Issues Batch** in the Parent issue has been updated to show "2 / 3" or 66% complete.
-    - Verify that the issue status icon on the "Done" card has changed from an open (![Open icon](./images/issue-open.jpeg)) to closed (![Closed icon](./images/issue-closed.jpeg)).
+  - Verify that the **Learning GitHub Issues Batch** in the Parent issue has been updated to show "2 / 3" or 66% complete.
+  - Verify that the issue status icon on the "Done" card has changed from an open (![Open icon](./images/issue-open.jpeg)) to closed (![Closed icon](./images/issue-closed.jpeg)).
   
-  NOTE: The fact that the issue was closed when it was dragged to "Done" was not through magic; it was though automation which we'll investigate next!
+  NOTE: The fact that the issue was closed when it was dragged to "Done" was not through magic; it happend through automation... which we'll investigate next!
 
 
 

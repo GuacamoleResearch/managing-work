@@ -16,7 +16,8 @@ _As noted in the last exercise, the act of closing an issue and changing the a p
   - Change the filter to remove the label, so that the new filter text is `is:issue,pr is:open`; in this workshop we've been using purely issues but in the next exercise we'll look at PRs.
   - Click the **Save and turn on workflow** green button on the top-right of the page.
 - [ ] Add a new "Verify project automation" issue to verify the automation.
-  - On the top-nav for the page, click on the **Create new...** (![+](./images/create-new.jpeg)) dropdown and select **New issue**.
+  - On the top-nav of the page, search for your repo by entering portions of the name.  Select your repository name to **jump to** to it.
+  - Click on the **Issues** tab and then click the green **New issue** button.
   - Use the **Blank issue** template with the issue title `Verify project automation`; click **Create** to save the new issue.
   - In the right column of the newly created issue, verify that your project is visible in the "Projects" section.  The fact that it shows up verifies that the automation has run and this issue was added to the project.
   - Expand the project box to reveal the custom project fields, for example:
